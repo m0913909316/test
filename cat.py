@@ -1,1 +1,1 @@
-pint("i am cat")
+print("i am cat")
